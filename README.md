@@ -6,7 +6,7 @@ SQL · Power BI · Python · Tableau | Bilingue FR/EN
 
 🇫🇷 À propos
 
-Analyste de données bilingue basé à Ottawa. Je transforme des données brutes en informations claires qui appuient la prise de décision. Mon parcours terrain m'a appris à travailler sous pression, observer les détails et communiquer efficacement — des atouts que j'applique maintenant à l'analyse de données.
+Analyste de données bilingue basé à Ottawa. Je transforme des données brutes en informations claires qui appuient la prise de décision. Mon parcours terrain m'a appris à travailler sous pression, observer les détails et communiquer efficacement, des atouts que j'applique maintenant à l'analyse de données.
 
 
 🎓 En préparation de la certification Microsoft PL-300 (Power BI Data Analyst)
@@ -16,7 +16,7 @@ Analyste de données bilingue basé à Ottawa. Je transforme des données brutes
 
 EN About me
 
-Bilingual data analyst based in Ottawa. I turn raw data into clear insights that support decision-making. My field experience taught me to work under pressure, notice details, and communicate effectively — strengths I now apply to data analysis.
+Bilingual data analyst based in Ottawa. I turn raw data into clear insights that support decision-making. My field experience taught me to work under pressure, notice details, and communicate effectively ,strengths I now apply to data analysis.
 
 
 🎓 Preparing for the Microsoft PL-300 certification (Power BI Data Analyst)
