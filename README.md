@@ -34,7 +34,7 @@ Domaine / AreaOutils / ToolsRequêtes / QueryingSQL (SELECT, JOIN, GROUP BY, CTE
 
 
 📚 Système de recommandation de livres (Python/ML) — Modèle hybride (TF-IDF, KNN, SVD) sur 196 000 interactions, méthodologie CRISP-DM + Scrum, déployé en ligne · Démo Hugging Face · Code
-🏒 Analyse NHL (Tableau) — Tableau de bord interactif sur les statistiques de la LNH · Tableau Public
+- 🏒 **Analyse NHL (Tableau)** — Tableau de bord interactif sur les statistiques de la LNH · [Tableau Public](https://public.tableau.com/views/Book1_17766470052250/Q6-Tableaudebord)
 🗄️ Analyse SQL — Données ouvertes d'Ottawa — Requêtes documentées sur des données municipales · (en cours / in progress)
 📈 Dashboard Power BI — Rapport interactif aligné sur le parcours PL-300 · (en cours / in progress)
 
